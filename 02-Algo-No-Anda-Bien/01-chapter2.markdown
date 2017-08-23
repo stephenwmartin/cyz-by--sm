@@ -10,18 +10,18 @@ Mientras tanto trato de recordar, aunque duela.
 Aquí voy.  
 
 
-## Miércoles 12 de Diciembre 2037 @ 3:00 PM ##
+## Miércoles 12 de Dic. 2037 @ 3:00 PM ##
 
 Mis padres me compraron una nueva laptop, y ahora me dispongo a hacer un diario sobre todo lo que vive un adolescente de 17 años, o casi todo.
 En la mañana tuve una interesante discusión con mi mejor amiga, Victoria, aunque ella prefiere que le llame Vick, de hecho siempre que le llamo Victoria pone los ojos en blanco y me mira con actitud de bronca. En fin, platicábamos sobre lo que nos dijo un profesor del colegio, un tipo bastante gordo pero muy intelectual, Vai su apellido ,el dice que en algún punto, las potencias mundiales se atacarán con cosas biológicas, cosas que harán a la gente volverse locos y comerse unos a otros. El tipo es un poco loco, de eso platiqué con mi amiga, aunque al final concluimos que podría ser posible.  
 
-## Viernes 14 de Diciembre 2037 @ 1:00 PM ##
+## Viernes 14 de Dic. 2037 @ 1:00 PM ##
 
 Vick me habló en la tarde de ayer, encontró un blog zombiesatemygirl.blogspot.com con historias de zombies 
 obviamente, leí unas cuantas, me gusta el tema, pero pensar que pudiera volverse realidad, como lo que dice el maestro Vai, me da un poco de escalofríos. Aún así Vick y yo, intercambiamos historias que encontrábamos ahí hasta la madrugada, así que ahora tengo que lidiar con un sueño del demonio por que tengo un examen de inglés mañana y no he estudiado mucho.
 Lore dijo que me ayudaría a estudiar pero creo que no es buena idea, creo que esa chica está un poco loca pero bueno, es eso o reprobar ese examen, lo cual después de la plática con mi madre donde me dió un ultimátum para aprobar ese nivel no se buena idea.  
 
-## Domingo 15 de Diciembre 2037 6:00 PM ##
+## Domingo 15 de Dic. 2037 6:00 PM ##
 
 Me puse a leer mas historias de zombies, son fascinantes, de hecho, creo que tengo un poco hartos a mis amigos de Facebook, esos botones de «compartir historia» de la página son un gran invento, al menos para Vick y para mi.  
 Es agradable tener una amiga así, que tenga los mismo intereses y con la cual puedes hablar de lo que sea, 
