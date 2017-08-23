@@ -1,4 +1,0 @@
-\changetocdepth {2}
-\select@language {spanish}
-\contentsline {chapter}{\chapternumberline {1}Algunos recuerdos}{1}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Algo no anda bien}{3}{chapter.2}
