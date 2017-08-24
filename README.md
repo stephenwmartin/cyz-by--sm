@@ -3,7 +3,7 @@ By Stephen W. Martin
 
 ## Why?
 I inspired myself to write this by reading the work of [Julián Merelo](https://github.com/JJ/hoborg). I think doing creative writing on GitHub is an excellent idea, because you can keep track of every change you make, it kinda forces you to have a local backup, and, for that matter backing up regularly.
-Besides, I read this one story ([Benjamin-Buckingham-And-The-Nightmares-Nightmare-Nove](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel/tree/master/initial-drafts)), that is another great piece of creatove writing using GitHub. I think there is something great about showing people your creative process, because, not a single book in history of literature has just had been published straight of the mind of the writer. Books always need to be changed in some way, as writing is an iterativem process.
+Besides, I read this one story ([Benjamin-Buckingham-And-The-Nightmares-Nightmare-Nove](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel/tree/master/initial-drafts)), that is another great piece of creative writing using GitHub. I think there is something great about showing people your creative process, because, not a single book in history of literature has just had been published straight of the mind of the writer. Books always need to be changed in some way, as writing is an iterativem process.
 
 
 
