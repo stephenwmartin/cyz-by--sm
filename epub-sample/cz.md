@@ -12,8 +12,9 @@ no one gets this far alone.”* — Stephen King.
 Dedicatoria
 ===========
 
-*Este libro está dedicado a Kenny, Bev y Jazz, por apoyarme en días
-oscuros. ¡Gracias!*
+*Este libro está dedicado a Kenny, Bev y Yass, por apoyarme en días
+oscuros. ¡Gracias!*\
+*A mi hermana, legen - por ser mi primera editora -dario. Legendario.*
 
 Algunos recuerdos
 =================
