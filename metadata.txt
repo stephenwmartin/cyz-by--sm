@@ -4,3 +4,10 @@ author: Stephen W. Martin
 rights: Creative Commons Non-Commercial Share Alike 4.0
 language: es-MX
 ...
+
+
+<div class='epigraph'>
+
+*"Hug and kiss whoever helped get you - financially, mentally, morally, emotionally - to this day. Parents, mentors, friends, teachers. If you're too uptight to do that, at least do the old handshake thing, but I recommend a hug and a kiss. Don't let the sun go down without saying thank you to someone, and without admitting to yourself that absolutely no one gets this far alone."* --- Stephen King.
+
+</div>
