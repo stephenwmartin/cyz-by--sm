@@ -8,7 +8,7 @@ Besides, I read this one story ([Benjamin-Buckingham-And-The-Nightmares-Nightmar
 
 
 ## How can I read it?
-You can go ahead and read it [here](https://github.com/stephenwmartin/cyz-by--sm/blob/master/epub-sample/cz.md).
+You can go ahead and read it [here](https://github.com/stephenwmartin/cyz-by--sm/tree/master/epub-sample/build/md/cz.md).
 
 ### But it's in spanish
 Yep, thats my mother tongue, but as a TODO definetely is a translation to many languages, although I'm just starting with this one.
