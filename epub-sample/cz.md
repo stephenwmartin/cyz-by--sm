@@ -13,8 +13,8 @@ Dedicatoria
 ===========
 
 *Este libro está dedicado a Kenny, Bev y Yass, por apoyarme en días
-oscuros.* *A mi hermana, legen - por ser mi primera editora -dario.
-Legendario.*\
+oscuros.*\
+*A mi hermana, legen - por ser mi primera editora -dario. Legendario.*\
 **¡Gracias!**
 
 Algunos recuerdos
@@ -81,6 +81,8 @@ Vigílalo por cierto tiempo y procura que esté de estaldas para que no
 tenga tiempo de contraatacar; lo he visto infinidad de veces, esos
 bastardos parecen los seres más lentos del mundo, y lo son. Cuando no
 tienen una presa.*
+
+------------------------------------------------------------------------
 
 Algo no anda bien
 =================

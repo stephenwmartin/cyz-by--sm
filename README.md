@@ -16,11 +16,10 @@ Yep, thats my mother tongue, but as a TODO definetely is a translation to many l
 ### How to create the epub file
 I'm using Pandoc to achieve this, you can use the command:
 ```shell
-pandoc -S -o epub-sample/cz.epub metadata.txt frontmatter/dedication.markdown chaptersMD/01-Algunos-Recuerdos/01-chapter1.markdown\
-chaptersMD/02-Algo-No-Anda-Bien/01-chapter2.markdown  
+sh create.sh  
 
 ```
-(In a near future I hope you have to include a lot more chapters!)
+Which will create epub, html and md files.
 
 Where:  
 `metadata.txt`: Contains the info about the title, author, license, etc. This is not visible to the reader, this, as the title suggests is merely metadata.
