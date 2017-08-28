@@ -1,3 +1,20 @@
+<div class="epigraph">
+
+*“Hug and kiss whoever helped get you - financially, mentally, morally,
+emotionally - to this day. Parents, mentors, friends, teachers. If
+you’re too uptight to do that, at least do the old handshake thing, but
+I recommend a hug and a kiss. Don’t let the sun go down without saying
+thank you to someone, and without admitting to yourself that absolutely
+no one gets this far alone.”* — Stephen King.
+
+</div>
+
+Dedicatoria
+===========
+
+*Este libro está dedicado a Kenny, Bev y Jazz, por apoyarme en días
+oscuros. ¡Gracias!*
+
 Algunos recuerdos
 =================
 
@@ -42,6 +59,26 @@ por teléfono, pero fue una llamada muy emotiva. Supongo que eso no
 importa ahora, lo único que importa ahora es sobrevivir…
 
 Sobrevivir y encontrarla.
+
+------------------------------------------------------------------------
+
+Sobre cómo matar a un zombie I
+==============================
+
+Enfócate
+--------
+
+*Debes ser lo más cauteloso posible, pareciera que esos desgraciados no
+ponen atención a tus movimientos, pero lo hacen – oh, hermano, claro que
+lo hacen. Y, en cuanto te descuides tendrás a una horda tras de ti,
+hambrientos de tu carne.*
+
+*Primero vigila tu alrededor, creéme, no quieres atacar a uno para tener
+a 10 frente a ti al siguiente instante. Debes atacar inteligentemente.
+Vigílalo por cierto tiempo y procura que esté de estaldas para que no
+tenga tiempo de contraatacar; lo he visto infinidad de veces, esos
+bastardos parecen los seres más lentos del mundo, y lo son. Cuando no
+tienen una presa.*
 
 Algo no anda bien
 =================
