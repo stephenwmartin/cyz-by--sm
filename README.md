@@ -16,7 +16,7 @@ Yep, thats my mother tongue, but as a TODO definetely is a translation to many l
 ### How to create the epub file
 I'm using Pandoc to achieve this, you can use the command:
 ```shell
-sh create.sh  
+make  
 
 ```
 Which will create epub, html and md files.
