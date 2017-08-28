@@ -16,8 +16,8 @@ Yep, thats my mother tongue, but as a TODO definetely is a translation to many l
 ### How to create the epub file
 I'm using Pandoc to achieve this, you can use the command:
 ```shell
-pandoc -S -o epub-sample/cz.epub metadata.txt 01-Algunos-Recuerdos/01-chapter1.markdown \
-02-Algo-No-Anda-Bien/01-chapter2.markdown 
+pandoc -S -o epub-sample/cz.epub chaptersMD/01-Algunos-Recuerdos/01-chapter1.markdown\
+chaptersMD/02-Algo-No-Anda-Bien/01-chapter2.markdown 
 
 ```
 (In a near future I hope you have to include a lot more chapters!)
