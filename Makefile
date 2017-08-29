@@ -16,7 +16,7 @@ LATEX_CLASS = memoir
 
 all: book
 
-book: epub html pdf md
+book: epub html pdf markdown
 
 clean:
 	rm -r $(BUILD)
@@ -27,7 +27,7 @@ html: $(BUILD)/html/$(BOOKNAME).html
 
 pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 
-md: $(BUILD)/md/$(BOOKNAME).md
+markdown: $(BUILD)/markdown/$(BOOKNAME).markdown
 
 $(BUILD)/epub/$(BOOKNAME).epub: $(CHAPTERS)
 	mkdir -p $(BUILD)/epub
@@ -41,8 +41,8 @@ $(BUILD)/pdf/$(BOOKNAME).pdf: $(CHAPTERS)
 	mkdir -p $(BUILD)/pdf
 	pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
 
-$(BUILD)/md/$(BOOKNAME).md: $(CHAPTERS)
-	mkdir -p $(BUILD)/md
+$(BUILD)/markdown/$(BOOKNAME).markdown: $(CHAPTERS)
+	mkdir -p $(BUILD)/markdown
 	pandoc -S $(METADATA) -o $@ $^
 
-.PHONY: all book clean epub html pdf
+.PHONY: all book clean epub html pdf markdown
