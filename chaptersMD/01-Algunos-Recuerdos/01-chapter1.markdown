@@ -1,4 +1,4 @@
-# Algunos recuerdos #
+﻿# Algunos recuerdos #
 
 ## Leonardo ##
 
@@ -14,7 +14,7 @@ Extraño el ir al colegio, los buses llenos de gente apurada, el estrés, inclus
 
 Pero eso no es posible, al menos no fuera de mi mente. En algún lugar de mi cerebro, a veces se enciende una pequeña luz de esperanza, esperanza de volver a verlos, de que hubieran salido antes y  se salvaran; tal vez de que estén refugiados en alguno de los albergues, en un punto seguro, no se. Es bastante improbable, pero el humano siempre tendrá esas pequeñas motas de ilusión en los momentos mas desoladores.
 
-Algo que me duele de sobremanera es no tener un último recuerdo dulce de mi madre; peleé con ella. Ahora que lo pienso fue una estupidez característica de la adolescencia. Esperaba que al regresar a casa todo se arreglara, platicaramos y termináramos riendo, pero no fue así. Desde ese día no la he vuelto a ver. En mi cabeza se repite una y otra vez la imagen de ella, a punto de llorar, suspirando con exasperación y saliendo de mi habitación. A veces desearía haber muerto el primer día.
+Algo que me duele de sobremanera es no tener un último recuerdo dulce de mi madre; peleé con ella. Ahora que lo pienso fue una estupidez característica de la adolescencia. Esperaba que al regresar a casa todo se arreglara, platicáramos y termináramos riendo, pero no fue así. Desde ese día no la he vuelto a ver. En mi cabeza se repite una y otra vez la imagen de ella, a punto de llorar, suspirando con exasperación y saliendo de mi habitación. A veces desearía haber muerto el primer día.
 
 Con mi padre fue diferente, aunque la última vez que hablé con el fue por teléfono, pero fue una llamada muy emotiva. Supongo que eso no importa ahora, lo único que importa ahora es sobrevivir...
 

@@ -1,4 +1,4 @@
-# Algo no anda bien #
+﻿# Algo no anda bien #
 
 No puedo quejarme, realmente la he podido librar bastante bien. Estoy en un refugio que parece bastante seguro... aunque pensándolo bien, eso decían de los que implementó el ejército, es inquietante pensar en eso.  
 
@@ -12,14 +12,14 @@ Mientras tanto trataré de recordar, aunque duela. Aquí voy.
 
 Mis padres me compraron una nueva laptop, y ahora me dispongo a hacer un diario sobre todo lo que vive un adolescente de 17 años, o casi todo.
 En la mañana tuve una interesante discusión con mi mejor amiga, Victoria, aunque ella prefiere que le llame Vick, de hecho siempre que le llamo Victoria pone los ojos en blanco y me mira con actitud de bronca. En fin, platicábamos sobre lo que nos dijo un profesor del colegio, un tipo bastante gordo pero muy intelectual. Vai su apellido, él dice que en algún punto, las potencias mundiales se atacarán con cosas biológicas, cosas que harán a la gente volverse locos y comerse unos a otros; ya que, *¿para qué destruir los edificios e infraestructura?*  
-El tipo es un poco loco. De eso platiqué con mi amiga, quién incrédula argumentó conmigo hasta las tres de la mañana. Aunque al final, agotados, concluímos que podría ser posible. En un futuro muy lejano.  
+El tipo es un poco loco. De eso platiqué con mi amiga, quién incrédula argumentó conmigo hasta las tres de la mañana. Aunque al final, agotados, concluimos que podría ser posible. En un futuro muy lejano.  
 
 ## Viernes 14 de Dic. 2037 @ 1:00 AM ##
 
 Vick me habló en la tarde de ayer, encontró un blog [zombiesatemygirl.blogspot.com](https://zombiesatemygirl.blogspot.com) con historias de zombies 
 obviamente. Leí unas cuantas, me gusta el tema, pero pensar que pudiera volverse realidad como lo que dice el maestro Vai, me da un poco de escalofríos. Aún así Vick y yo intercambiamos historias que encontrábamos ahí hasta la madrugada, en una batalla de enlaces que duró hasta media noche. Así que ahora tengo que lidiar con un sueño del demonio por que tengo un examen de inglés mañana y no he estudiado mucho.  
 
-Lorena dijo que me ayudaría a estudiar, lo cual no me entusiasma de sobremanera; creo que esa chica está un poco loca, pero bueno, es eso o reprobar ese examen. Lo cual después de la *plática* con mi madre donde me dió un ultimátum para aprobar ese nivel no parece tan mala idea.  
+Lorena dijo que me ayudaría a estudiar, lo cual no me entusiasma de sobremanera; creo que esa chica está un poco loca, pero bueno, es eso o reprobar ese examen. Lo cual después de la *plática* con mi madre donde me dio un ultimátum para aprobar ese nivel no parece tan mala idea.  
 
 ## Domingo 15 de Dic. 2037 6:00 PM ##
 
